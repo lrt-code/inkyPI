@@ -1,3 +1,8 @@
+#HEY!!! GPT MADE THIS!!!
+I got this hat in the hope of have a simple eink picture display but none of the projects was working, But none of the projects would work so now im here with gpt...
+
+
+
 # Inky Photo Uploader for Raspberry Pi
 This project allows you to upload and display images on a Pimoroni Inky Impression ePaper HAT using a Raspberry Pi.
 
@@ -9,7 +14,7 @@ This project allows you to upload and display images on a Pimoroni Inky Impressi
 
 ## 🧰 Requirements
 - Raspberry Pi Zero W or later with Raspberry Pi OS
-- Pimoroni Inky Impression 4.0" (7-color)
+- Pimoroni Inky Impression 4.0" 7-color (this would work with other inky hats but I dont have the mony to buy them yet so if you have one and want to try please tell me if it works)
 - Python 3.7+
 - Flask, Pillow, gpiozero, and Pimoroni Inky library
 
