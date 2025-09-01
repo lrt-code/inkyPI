@@ -1,5 +1,5 @@
 #HEY!!! GPT MADE THIS!!!
-I got this hat in the hope of have a simple eink picture display but none of the projects was working, But none of the projects would work so now im here with gpt...
+I got this hat in the hope of have a simple eink picture display but none of the projects was working, so now im here with gpt...
 
 
 
