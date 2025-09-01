@@ -3,7 +3,7 @@ This project allows you to upload and display images on a Pimoroni Inky Impressi
 
 ## 📦 Features
 - Upload jpg,jpeg,png images through a web interface.
-- Use Button A to show the Pi's local IP address on screen.
+- Use Button A to show the Pi's local IP address on screen.(working on)
 - Use Button D to safely shut down the Pi.(Working on)
 - Option to rotate uploaded image before display.
 
