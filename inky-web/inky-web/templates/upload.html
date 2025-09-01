@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Inky Upload</title>
+</head>
+<body>
+    <h1>Upload an Image</h1>
+    <form method="POST" action="/upload" enctype="multipart/form-data">
+        <input type="file" name="file" accept=".png,.jpg,.jpeg" required><br><br>
+        <label>Rotate image:</label>
+        <select name="rotate">
+            <option value="none">None</option>
+            <option value="cw">Clockwise</option>
+            <option value="ccw">Counter Clockwise</option>
+            <option value="flip">Upside Down</option>
+        </select><br><br>
+        <button type="submit">Upload</button>
+    </form>
+</body>
+</html>

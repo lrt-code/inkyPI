@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Inky Photo Uploader</title>
+  </head>
+  <body>
+    <h1>Upload Image to Inky Display</h1>
+    <form method="post" enctype="multipart/form-data" action="/upload">
+      <input type="file" name="file">
+      <label for="rotation">Rotate:</label>
+      <select name="rotation">
+        <option value="0">0°</option>
+        <option value="90">90°</option>
+        <option value="180">180°</option>
+        <option value="270">270°</option>
+      </select>
+      <input type="submit" value="Upload">
+    </form>
+  </body>
+</html>
