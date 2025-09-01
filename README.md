@@ -1,4 +1,4 @@
-#HEY!!! GPT MADE THIS!!!
+ #HEY!!! GPT MADE THIS!!!
 I got this hat in the hope of have a simple eink picture display but none of the projects was working, so now im here with gpt...
 
 
@@ -8,8 +8,6 @@ This project allows you to upload and display images on a Pimoroni Inky Impressi
 
 ## 📦 Features
 - Upload jpg,jpeg,png images through a web interface.
-- Use Button A to show the Pi's local IP address on screen.(working on)
-- Use Button D to safely shut down the Pi.(Working on)
 - Option to rotate uploaded image before display.
 
 ## 🧰 Requirements
@@ -36,3 +34,10 @@ This project allows you to upload and display images on a Pimoroni Inky Impressi
 
 5. **Access the web UI**:
     Go to `http://<your_pi_ip>:5000` in a browser on the same network.
+
+
+##Things to add##
+- Use Button A to show the Pi's local IP address on screen.(working on)
+- Use Button D to safely shut down the Pi.(Working on)
+- a weather mode on a button
+- a way to look at what photos have been uploaded and and it cycles them.
